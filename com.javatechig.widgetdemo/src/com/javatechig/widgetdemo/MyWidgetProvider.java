@@ -33,6 +33,8 @@ public class MyWidgetProvider extends AppWidgetProvider {
 		return PendingIntent.getBroadcast(context, 0, intent,PendingIntent.FLAG_UPDATE_CURRENT);
 	}
 
+	//hey hey you you random comment fo rghit testing
+	///should be registering as an modification
 	private static CharSequence getDesc() {
 		return "Sync to see some of our funniest joke collections";
 	}

@@ -1,3 +1,10 @@
+/**
+*@author Kent
+*@since 15:49
+*@version 1.1
+*/
+
+
 package com.javatechig.widgetdemo;
 
 import android.content.BroadcastReceiver;
